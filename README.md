@@ -37,6 +37,9 @@ Cайт магазина игрушек.
 Состав команды:
 <ol>
   <li>Анисимов Егор ИДМ-22-08 (Роль: РП, ВН).</li>
+  <li>Григорьевых Андрей ИДМ-22-08 (Роль: ПП, СП).</li>
+  <li>Маликова Елизавета ИДМ-22-08 (Роль: НИ, КО).</li>
+  <li>Попкова Юлия ИДМ-22-01 (Роль: БА, АД).</li>
 </ol>
 <a href="https://saintmantis.github.io/bear-house-landing-page/">Landing page проекта</a> <br>
 <a href="https://github.com/saintmantis/bear-house-landing-page/tree/master">Репозиторий проекта</a>
